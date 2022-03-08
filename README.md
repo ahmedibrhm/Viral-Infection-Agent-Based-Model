@@ -23,3 +23,18 @@
 <p>
 The model also produce a 3D phase Space that plots the susceptible, Infected, and Recovered population with regard to each others.
 </p>
+<h2>Libraries Used:</h2>
+<p>
+- random <br> 
+    - seaborn <br> 
+    - matplotlib <br> 
+    - copy <br> 
+    - IPython <br> 
+    - numpy <br> 
+    - mpl_toolkits <br> 
+    - imageio <br> 
+    - os<br> 
+</p>
+<h2> How to run </h2>
+<p>1- Make sure that you have all of the used libraries. <br>
+2- Run the Model.ipynp</p>
