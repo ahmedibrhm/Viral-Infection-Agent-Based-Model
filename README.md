@@ -19,7 +19,7 @@
 </p>
 <img src="https://i.ibb.co/WH65Rwm/Agentbased-modelling.gif"/>
 <font color = "brown"><h2>Model's Phase Space</h2></font>
-<img src="https://i.ibb.co/B2gmvvD/Phase-Space.gif"/>
+<img src="https://i.ibb.co/dJY3bBy/Phase-Space.gif"/>
 <p>
 The model also produce a 3D phase Space that plots the susceptible, Infected, and Recovered population with regard to each others.
 </p>
