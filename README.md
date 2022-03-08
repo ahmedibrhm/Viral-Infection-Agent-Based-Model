@@ -36,5 +36,7 @@ The model also produce a 3D phase Space that plots the susceptible, Infected, an
     - os<br> 
 </p>
 <h2> How to run </h2>
-<p>1- Make sure that you have all of the used libraries. <br>
-2- Run the Model.ipynp on jupyter notebook.</p>
+<p>
+    1- Clone the project <br> 
+    2- Make sure that you have all of the used libraries. <br>
+3- Run the Model.ipynp on jupyter notebook.</p>
